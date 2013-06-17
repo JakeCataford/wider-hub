@@ -1,6 +1,8 @@
 WiderHub
 =========
 
+> **NOTE** This has been updated to only work with the new github repo design. If you dont want that, Just checkout an earlier commit.
+
 ###A Chrome Extension for full width GitHub PRs.
 This extension makes your github PR's full screen. It's ghetto but it works. 
 
