@@ -1,5 +1,5 @@
 
-if($(".repository-sidebar")[0]) {
+if($(".view-pull-request")[0]) {
 
 	$('.repo-label').hide();
 	$('.container').width(window.innerWidth - 40);
