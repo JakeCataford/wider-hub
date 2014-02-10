@@ -5,6 +5,7 @@ var widerhub = {
 		$('.container').css({margin : "0px 0px 0px 25px"});
 		$('#js-repo-pjax-container').width(window.innerWidth - 100);
 		$('.discussion-timeline').width(window.innerWidth - $('.discussion-sidebar').width() - 215);
+		$('.css-truncate-target').removeClass('css-truncate-target');
 	}
 }
 
